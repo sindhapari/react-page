@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c579a8cb.css","mappings":"AAAA,mBAGI,qBAAsB,CADtB,UAAU,CADV,eAIA","sources":["index.module.css"],"sourcesContent":[".Timber{\r\n    font-size: large;\r\n    color:aqua;\r\n    background-color: blue;\r\n    \r\n    }"],"names":[],"sourceRoot":""}
